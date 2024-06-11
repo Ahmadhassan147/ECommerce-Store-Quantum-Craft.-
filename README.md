@@ -76,21 +76,25 @@ To run the project locally, follow these steps:
       Double-click the index.html file, or
       Right-click the file and select "Open with" followed by your preferred web browser.
 
-Contributing
+## Contributing
+
 If you wish to contribute to the project, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add new feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
 
-Contact
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
+
+## Contact
+
 For any inquiries or feedback, please contact:
 
-Name: Your Name
-Email: your-email@example.com
-GitHub: yourusername
+- **Name**: Your Name
+- **Email**: your-email@example.com
+- **GitHub**: [Ahmadhassan147](https://github.com/Ahmadhassan147)
