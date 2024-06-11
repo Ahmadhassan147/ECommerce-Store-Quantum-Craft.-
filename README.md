@@ -72,9 +72,9 @@ To run the project locally, follow these steps:
 2. **Navigate to the Project Directory:**
    ```bash
    cd Quantum-Craft
-3. Open the index.html file in your web browser:
-      Double-click the index.html file, or
-      Right-click the file and select "Open with" followed by your preferred web browser.
+3. **Open the `index.html` file in your web browser:**
+- Double-click the `index.html` file, or
+- Right-click the file and select "Open with" followed by your preferred web browser.
 
 ## Contributing
 
