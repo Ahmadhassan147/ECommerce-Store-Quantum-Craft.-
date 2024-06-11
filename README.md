@@ -57,6 +57,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For any inquiries or feedback, please contact:
 
-- **Name**: Your Name
-- **Email**: your-email@example.com
+- **Name**: Ahmad Hassan
+- **Email**: ahmad.hassan.hnd@gmail.com
 - **GitHub**: [Ahmadhassan147](https://github.com/Ahmadhassan147)
