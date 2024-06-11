@@ -6,44 +6,6 @@ Welcome to **Quantum-Craft**, an e-commerce web application developed as a semes
 
 **Quantum-Craft** is designed to provide a seamless shopping experience for users, featuring multiple product categories, user authentication, shopping cart functionality, and more. This README file will guide you through the structure of the project, the technologies used, and instructions on how to run the project locally.
 
-## Project Structure
-
-The project files are organized as follows:
-
-Quantum-Craft/
-│
-├── assets/ # Contains images, CSS, and JavaScript files
-│
-├── about-us.html # About Us page
-├── best-deals.html # Best Deals page
-├── blogs.html # Blogs page
-├── cart.html # Shopping Cart page
-├── category-1.html # Product Category 1 page
-├── category-2.html # Product Category 2 page
-├── category-3.html # Product Category 3 page
-├── category-4.html # Product Category 4 page
-├── checkout-cart.html # Checkout page
-├── clients.html # Clients page
-├── compare.html # Compare Products page
-├── contact.html # Contact Us page
-├── customdesign.html # Custom Design page
-├── faq.html # Frequently Asked Questions page
-├── feature.html # Features page
-├── index.html # Home page
-├── login.html # Login page
-├── register.html # Registration page
-├── shop-grid-sidebar.html # Shop Grid with Sidebar page
-├── shop-list-sidebar.html # Shop List with Sidebar page
-├── single-blog-sidebar.html # Single Blog post with Sidebar page
-├── single-product.html # Single Product page
-├── team.html # Team page
-├── terms-conditions.html # Terms and Conditions page
-├── testimonial.html # Testimonials page
-├── track-order.html # Track Order page
-├── wishlist.html # Wishlist page
-└── Semester Project.zip # Compressed project files
-
-
 ## Key Features
 
 - **Home Page**: Welcoming interface with featured products and promotions.
